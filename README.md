@@ -1,9 +1,10 @@
-### :man_technologist: Olá, eu sou a Kevelly! Bem vindo ao meu GitHub 👋 
+### :man_technologist: Olá, eu sou a Kevelly Braga! Bem vindo ao meu GitHub 👋 
 
 ||Desenvolvedora Java Full Stack||
 
 #### Meus contatos:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/kevelly-braga-75b177172/)](https://www.linkedin.com/in/kevelly-braga-75b177172/)
+
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kevelly133@gmail.com)](mailto:kevelly133@gmail.com)
 
 #### Conhecimento nas linguagens:
@@ -24,7 +25,8 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
 ![NodeJS](https://img.shields.io/badge/-NodeJS-DD0031?style=flat-square&logo=NodeJS)
 
-<img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KevellybpC&layout=compact&theme=vision-friendly-dark" />
- <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=KevellybpC&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
+<img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevellybp&layout=compact&theme=vision-friendly-dark" />
+ <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=Kevellybp&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
 <!--
+
 
